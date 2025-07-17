@@ -1,0 +1,21 @@
+{
+  "_id": ObjectId("60d5ec49e3b4b24b8c8d1c8a"),
+  "name": "Fast University",
+  "established_year": 1985,
+  "address": {
+    "street": "Industrial road",
+    "city": "Peshawar",
+    "state": "KP",
+    "postal_code": "90210",
+    "country": "PK"
+  },
+  "contact": {
+    "phone": ["+1-800-555-1234", "+1-800-555-5678"],
+    "website": "https://www.nu.edu.pk",
+    "email": "info@globaltech.edu"
+  },
+  "chancellor": "Dr. Saab",
+  "accreditation": ["WASC", "ABET"],
+  "created_at": new Date(),
+  "updated_at": new Date()
+}

@@ -1,0 +1,10 @@
+{
+  "_id": ObjectId("60d5f345e3b4b24b8c8d1c92"),
+  "student_id": ObjectId("60d5f0cde3b4b24b8c8d1c90"),
+  "course_id": ObjectId("60d5f216e3b4b24b8c8d1c91"),
+  "semester": "Fall",
+  "year": 2024,
+  "grade": "In Progress",
+  "enrollment_date": new Date(),
+  "updated_at": new Date()
+}

@@ -1,0 +1,14 @@
+{
+  "_id": ObjectId("60d5ed03e3b4b24b8c8d1c8b"),
+  "university_id": ObjectId("60d5ec49e3b4b24b8c8d1c8a"),
+  "name": "Computer Science",
+  "head_of_department": ObjectId("60d5ee67e3b4b24b8c8d1c8e"),
+  "office_location": "Building 4, Room 210",
+  "contact": {
+    "phone": "+1-800-555-2001",
+    "email": "cs.dept@fast.edu"
+  },
+  "faculty_count": 101,
+  "created_at": new Date(),
+  "updated_at": new Date()
+}

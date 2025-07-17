@@ -1,0 +1,30 @@
+{
+  "_id": ObjectId("60d5f0cde3b4b24b8c8d1c90"),
+  "student_id": "STU-2025-001",
+  "first_name": "Irtaza",
+  "last_name": "Butt",
+  "date_of_birth": new Date("2003-01-01"),
+  "age": 22,
+  "gender": "Male",
+  "contact": {
+    "email": "irtaza.butt.9316@gmail.com",
+    "phone": "03366911319"
+  },
+  "address": {
+    "street": "123 Main St",
+    "city": "Gujrat",
+    "state": "Punjab",
+    "postal_code": "50700",
+    "country": "Pakistan"
+  },
+  "enrollment_details": {
+    "department_id": ObjectId("60d5ed03e3b4b24b8c8d1c8b"),
+    "major": "Computer Science",
+    "enrollment_date": new Date("2021-09-01"),
+    "expected_graduation_date": new Date("2025-06-15"),
+    "status": "Active"
+  },
+  "academic_history": [],
+  "created_at": new Date(),
+  "updated_at": new Date()
+}

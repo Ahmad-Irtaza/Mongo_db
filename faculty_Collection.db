@@ -1,0 +1,19 @@
+{
+  "_id": ObjectId("60d5ee67e3b4b24b8c8d1c8e"),
+  "department_id": ObjectId("60d5ed03e3b4b24b8c8d1c8b"),
+  "first_name": "A",
+  "last_name": "saab",
+  "email": "a.saab@globaltech.edu",
+  "phone_number": "+1-987-654-3210",
+  "rank": "Professor",
+  "specialization": ["Theoretical Computer Science", "Cryptography"],
+  "office_hours": {
+    "day": "Monday",
+    "start_time": "10:00",
+    "end_time": "12:00"
+  },
+  "date_of_birth": new Date("1912-06-23"),
+  "hire_date": new Date("2010-08-15"),
+  "created_at": new Date(),
+  "updated_at": new Date()
+}

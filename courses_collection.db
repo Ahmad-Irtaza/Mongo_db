@@ -1,0 +1,11 @@
+{
+  "_id": ObjectId("60d5f216e3b4b24b8c8d1c91"),
+  "course_code": "CS101",
+  "title": "Introduction to Programming",
+  "description": "A foundational course on programming principles using Python.",
+  "department_id": ObjectId("60d5ed03e3b4b24b8c8d1c8b"),
+  "credits": 3,
+  "instructor_id": ObjectId("60d5ee67e3b4b24b8c8d1c8e"),
+  "semester_offered": ["Fall", "Spring"],
+  "prerequisites": []
+}
